@@ -271,7 +271,7 @@ export default function Footer() {
             <DialogActions>
               <Button
                 style={{ marginBottom: 1 }}
-                href="https://ko-fi.com/shdvapps"
+                href=" "
                 target="_blank"
               >
                 <img
