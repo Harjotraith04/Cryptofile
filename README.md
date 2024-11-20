@@ -1,7 +1,6 @@
 <a href="https://hat.sh" style="color:#000"><h3 align="center">Cryptofile</h3></a>
 ---
-
-[Cryptofile] is a web app that provides secure local file encryption in the browser. It's fast, secure, and uses modern cryptographic algorithms with chunked AEAD stream encryption/decryption.
+Cryptofile is a web app that provides secure local file encryption in the browser. It's fast, secure, and uses modern cryptographic algorithms with chunked AEAD stream encryption/decryption.
 
 ## Features
 
