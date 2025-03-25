@@ -44,7 +44,7 @@ export default function NavAppBar() {
             </Button>
 
             <IconButton
-              href="https://github.com/Harjotraith04"
+              href="https://github.com/Aditya00784"
               target="_blank"
               rel="noopener"
             >

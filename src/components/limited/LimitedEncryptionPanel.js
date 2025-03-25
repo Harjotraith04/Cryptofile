@@ -750,13 +750,7 @@ const LimitedEncryptionPanel = () => {
                   labelPlacement="end"
                   onChange={handleRadioChange}
                 />
-                <FormControlLabel
-                  value="publicKey"
-                  control={<Radio color="default" />}
-                  label={t("public_key")}
-                  labelPlacement="end"
-                  onChange={handleRadioChange}
-                />
+                
               </RadioGroup>
             </FormControl>
 

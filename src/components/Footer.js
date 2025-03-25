@@ -162,7 +162,7 @@ export default function Footer() {
               rel="noopener"
               color="inherit"
             >
-              {"Harjot Singh Raith and Kartikeya Mudliyar"}
+              {"Kirthan Aditya , Rajaswa Anand and Sachin Karthik B "}
             </Link>
           </Typography>
 

@@ -16,7 +16,7 @@ const en_US = {
   faq: "FAQ",
   technical_details: "Technical-Details",
   changelog: "Changelog",
-  donation_message: "Love hat.sh? You can donate to support the project.",
+  donation_message: " ",
 
   // Settings
   settings: "Settings",
@@ -39,7 +39,6 @@ const en_US = {
   file: "file",
   files: "files",
   password: "Password",
-  public_key: "Public key",
   private_key: "Private key",
   drag_drop: "Drag & Drop or Browse file",
   drag_drop_files: "Drag & Drop or Browse files",
@@ -163,17 +162,14 @@ const en_US = {
   download_file: "Download File",
 
   // Keypair generation panel
-  generate_now_button: "Generate now",
+  
   generate_key_pair_button: "Generate Key Pair",
   generate_another_key_pair_button: "Generate Another Pair",
-  key_pair_question: "Don't have public/private keys?",
   key_pair_generation_title: "Public/Private key pair generation:",
   download_public_key: "Download Public Key",
   download_private_key: "Download Private Key",
-  generate_public_key: "Generate public key",
   generate_private_key: "Generate private key",
   show_private_key: "Show Private Key",
-  why_need_private_key: "Why need my private key?",
   private_key_notice: "Never share your private key to anyone! Only public keys should be exchanged.",
   generate_qr_code: "Generate QR code",
   qr_code_note_one: "This QR code contains your public key. After scanning, the device will redirect to the app and autofills the public key.",
